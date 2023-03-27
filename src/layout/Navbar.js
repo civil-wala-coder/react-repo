@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <div>
 
-      <h1>Rahul Vaishnav</h1>
+      <h1>Rahul Vaishnav && Hemant Jangid</h1>
       
       <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
         <div className="container-fluid">
